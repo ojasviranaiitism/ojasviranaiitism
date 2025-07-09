@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ojasvi Rana
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Graphic+Designer;Undergrad+@+IIT+Dhanbad;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Graphic+Designer;Undergrad+@+IIT+Dhanbad;" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-- 🎓 **Currently pursuing B.Tech @ IIT Dhanbad**
+- 🎓 **Pursuing B.Tech @ IIT Dhanbad**
 - 🧑‍💻 **Aspiring Software Developer** with a passion for innovation
 - 🕸️ **Full Stack Developer** building scalable web applications
 - 🎨 **Graphic Designer** creating stunning visual experiences
