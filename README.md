@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ojasvi Rana
 
 ## 🚀 About Me
-- 🎓 B.Tech Chemical Engineering @ IIT Dhanbad
+- 🎓 pursuing B.Tech @ IIT Dhanbad
 - 🧑‍💻 Aspiring Software Developer
 - 🕸️ Full Stack Developer, 🎨 Graphic Designer
 
