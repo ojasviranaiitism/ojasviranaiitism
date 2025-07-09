@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" alt="Coding" width="300" src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://i.pinimg.com/originals/a8/d4/46/a8d446aeaded108a90c974a5d6a356d9.gif)">
 
 - 🎓 **Pursuing B.Tech @ IIT Dhanbad**
 - 🧑‍💻 **Aspiring Software Developer** with a passion for innovation
