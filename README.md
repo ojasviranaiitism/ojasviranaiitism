@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ojasvi Rana
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Graphic+Designer;IIT+Dhanbad+Student;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Graphic+Designer;Undergrad+@+IIT+Dhanbad;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ---
